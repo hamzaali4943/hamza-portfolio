@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01d2d30a-961f-4593-a83b-ec1d50307db9" name="Cobone4me" url="http://165.22.171.103">
+        <fileTransfer host="165.22.171.103" port="22" rootFolder="/applications/sdddtsybtz/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

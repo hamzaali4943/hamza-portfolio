@@ -22,6 +22,13 @@
     <!--  Owl-carousel css file  -->
     <link rel="stylesheet" href="./vendor/owl-carousel/css/owl.carousel.min.css">
     <link rel="stylesheet" href="./vendor/owl-carousel/css/owl.theme.default.min.css">
+    <link href="./vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="./vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="./vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="./vendor/animate.css/animate.min.css" rel="stylesheet">
+    <link href="./vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="./vendor/aos/aos.css" rel="stylesheet">
+  <script data-ad-client="ca-pub-1374606821325042" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
     <!--  custom css file  -->
@@ -32,7 +39,7 @@
 
 </head>
 
-<body>
+<body onload="myFunction()">
 
 
     <!--  ======================= Start Header Area ============================== -->
@@ -52,24 +59,17 @@
                             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">about</a>
+                            <a class="nav-link" href="#about">about</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">services</a>
+                            <a class="nav-link" href="#services">services</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">portfolio</a>
+                            <a class="nav-link" href="#portfolio">portfolio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">pages</a>
+                            <a class="nav-link" href="#contact">contact</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">contact</a>
-                        </li>
-
                     </ul>
                 </div>
             </nav>
@@ -79,7 +79,7 @@
     <!--  ======================= End Header Area ============================== -->
 
     <!--  ======================= Start Main Area ================================ -->
-    <main class="site-main">
+    <main id="main" class="site-main">
 
 
         <!--  ======================= Start Banner Area =======================  -->
@@ -87,20 +87,16 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 site-title">
-                        <h3 class="title-text">Hey</h3>
-                        <h1 class="title-text text-uppercase">I am Hamza zafar</h1>
-                        <h4 class="title-text text-uppercase">Software Engineer</h4>
-                        <h6 class="text-uppercase">(Php laravel, VueJs & Quasar)</h6>
-                        <div class="site-buttons">
-                            <div class="d-flex flex-row flex-wrap">
-                                <button type="button" class="btn button primary-button mr-4 text-uppercase">hire
-                                    me</button>
-                                <button type="button" class="btn button secondary-button text-uppercase">Get cv</button>
-                            </div>
+                        <h3 class="title-text animated fadeInDown">Hey</h3>
+                        <h1 class="title-text text-uppercase animated fadeInDown">I am Hamza zafar</h1>
+                        <h4 class="title-text text-uppercase animated fadeInDown">Software Engineer</h4>
+                        <h6 class="text-uppercase animated fadeInDown">(Php laravel, VueJs & Quasar)</h6>
+                        <div class="site-buttons animated fadeInDown">
+                            <button type="button" class="btn button primary-button mr-4 text-uppercase">hire me</button>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 banner-image">
-                        <img src="./img/banner/banner-image.png" alt="banner-img" class="img-fluid">
+                        <img src="./img/banner/banner-image.png" alt="banner-img" class="img-fluid" width="100%">
                     </div>
                 </div>
             </div>
@@ -109,15 +105,15 @@
 
         <!--  ========================= About Area ==========================  -->
 
-        <section class="about-area">
+        <section class="about-area" id="about">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-6 col-md-12">
+                    <div class="col-lg-6 col-md-12" data-aos="fade-up">
                         <div class="about-image">
-                            <img src="./img/about-us.png" alt="About us" class="img-fluid">
+                            <img src="./img/about-us.png" alt="About us" class="img-fluid" width="100%">
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12 about-title">
+                    <div class="col-lg-6 col-md-12 about-title" data-aos="fade-up">
                         <h2 class="text-uppercase pt-5">
                             <span>Let me</span>
                             <span>introduce</span>
@@ -125,18 +121,12 @@
                         </h2>
                         <div class="paragraph py-4 w-75">
                             <p class="para">
-                                Software Engineer and expert in web and mobile development PHP LARAVEL, VUEJS and QUASAR,
-                                working from last 3 years on web and mobile development side, enthusiastic, self motivated
-                                and self learner and have worked many websites and web apps ERPs, SPA using these skills,
-                                Never compromised on quality and project deadline, mainly focus on client satisfaction.
+                                Software Engineer and expert in web and mobile development PHP LARAVEL, VUEJS and QUASAR, working from last 3 years on web and mobile development side, enthusiastic, self motivated and self learner and have worked many websites and web apps ERPs, SPA using these skills. Never compromised on quality and respect project deadlines, mainly focus on client satisfaction, my first and foremost priority is client satisfaction.
                             </p>
                             <p class="para">
-                                You can easily contact me throughout the project and even after that, will be available for discussion
-                                and meeting, I will deliver my very best quality of work with YOUR satisfaction so
-                                you won't be regret by hiring me again.
+                                You can easily contact me throughout the project and even after that, will be available for discussion and meeting, I will deliver my very best quality of work with YOUR satisfaction so you won't be regret by hiring me again.
                             </p>
                         </div>
-                        <button type="button" class="btn button primary-button text-uppercase">Download cv</button>
                     </div>
                 </div>
             </div>
@@ -144,89 +134,8 @@
 
         <!--  ========================= End About Area ==========================  -->
 
-        <!--  ======================== Brand Area ==============================  -->
-
-        <section class="brand-area">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-12 col-md-12">
-                        <div class="first-row row">
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo1.png" alt="Brand-1 ">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo2.png" alt="Brand-2 ">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo3.png" alt="Brand-3 ">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo4.png" alt="Brand-4">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo5.png" alt="Brand-5 ">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo6.png" alt="Brand-6">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo7.png" alt="Brand-7 ">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo8.png" alt="Brand-8 ">
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-brand">
-                                    <img src="./img/brands/logo9.png" alt="Brand-9">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-12 col-md-12">
-                        <div class="experience-area">
-                            <div class="d-flex flex-row years-area">
-                                <h2 class="p-3 years">10</h2>
-                                <h2>
-                                    <span>Years</span>
-                                    <span>Experience</span>
-                                    <span>Working</span>
-                                </h2>
-                            </div>
-                            <div class="d-flex flex-row flex-wrap call-area">
-                                <span><i class="fas fa-phone-alt fa-3x px-3"></i></span>
-                                <div class="call-now">
-                                    <a href="#" class="text-uppercase h4 font-roboto">Call Now</a>
-                                    <span class="font-roboto py-2">(+91)-800-555-4986</span>
-                                </div>
-                            </div>
-                            <div class="bg-panel"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!--  ======================== End Brand Area ==============================  -->
-
         <!--  ====================== Start Services Area =============================  -->
-
-        <section class="services-area">
+        <section class="counts services-area" id="services">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center services-title">
@@ -237,9 +146,9 @@
                         </p>
                     </div>
                 </div>
-                <div class="container services-list">
+                <div class="services-list">
                     <div class="row">
-                        <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
                             <div class="services">
                                 <div class="sevices-img text-center py-4">
                                     <img src="./img/services/s1.png" alt="Services-1">
@@ -254,7 +163,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
                             <div class="services">
                                 <div class="sevices-img text-center py-4">
                                     <img src="./img/services/s2.png" alt="Services-2">
@@ -269,7 +178,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
                             <div class="services">
                                 <div class="sevices-img text-center py-4">
                                     <img src="./img/services/s3.png" alt="Services-3">
@@ -284,7 +193,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="col-lg-3 col-md-6 col-sm-12" data-aos="fade-up">
                             <div class="services">
                                 <div class="sevices-img text-center py-4">
                                     <img src="./img/services/s4.png" alt="Services-4">
@@ -302,13 +211,13 @@
                     </div>
                 </div>
             </div>
-        </section>
+          </section>
 
         <!--  ====================== End Services Area =============================  -->
 
         <!--  ======================= Project Area =============================  -->
 
-        <section class="project-area">
+        <section class="project-area" id="portfolio">
             <div class="container">
                 <div class="project-title pb-5">
                     <h1 class="text-uppercase title-h1">Recently Done Project</h1>
@@ -327,117 +236,106 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 element-item latest">
                         <div class="our-project">
                             <div class="img">
-                                <a class="test-popup-link" href="./img/portfolio/p1.jpg">
-                                    <img src="./img/portfolio/p1.jpg" alt="portfolio-1" class="img-fluid">
+                                <a class="test-popup-link" href="./img/portfolio/restaurant.png">
+                                    <img src="./img/portfolio/restaurant.png" alt="portfolio-1" class="img-fluid" width="100%">
                                 </a>
                             </div>
                             <div class="title py-4">
-                                <h4 class="text-uppercase">Minimul Desing</h4>
+                                <a href="https://yamiyami.de/hot-deal" target="__blank">
+                                    <h4 class="text-uppercase">Yammi Yammi</h4>
+                                </a>
                                 <span class="text-secondary">Latest, Portfolio</span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 element-item popular">
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item popular latest">
                         <div class="our-project">
                             <div class="img">
-                                <a class="test-popup-link" href="./img/portfolio/p2.jpg">
-                                    <img src="./img/portfolio/p2.jpg" alt="portfolio-2" class="img-fluid">
+                                <a class="test-popup-link" href="./img/portfolio/cobone4me.png">
+                                    <img src="./img/portfolio/cobone4me.png" alt="portfolio-2" class="img-fluid" width="100%">
                                 </a>
                             </div>
                             <div class="title py-4">
-                                <h4 class="text-uppercase">Paint Wall</h4>
-                                <span class="text-secondary">Popular, Portfolio</span>
+                                <a href="https://www.cobone4me.com/" target="__blank">
+                                    <h4 class="text-uppercase">cobone4me</h4>
+                                </a>
+                                <span class="text-secondary">Stack: Php Laravel and MySql</span>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 element-item popular">
+                        <div class="our-project">
+                            <div class="img">
+                                <a class="test-popup-link" href="./img/portfolio/nch.png">
+                                    <img src="./img/portfolio/nch.png" alt="portfolio-3" class="img-fluid" width="100%">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <a href="https://dev.nationalcoronavirushotline.com/" target="__blank">
+                                    <h4 class="text-uppercase">NCH</h4>
+                                </a>
+                                <span class="text-secondary">Stack: Django and Vue.js</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item upcoming">
+                        <div class="our-project">
+                            <div class="img">
+                                <a class="test-popup-link" href="./img/portfolio/meditibb.png">
+                                    <img src="./img/portfolio/p2.jpg" alt="portfolio-5" class="img-fluid" width="100%">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <a href="http://app.meditibb.com/login/" target="__blank">
+                                    <h4 class="text-uppercase">Meditibb</h4>
+                                </a>
+                                <span class="text-secondary">Stack: Php Laravel & VueJs</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item following">
                         <div class="our-project">
                             <div class="img">
                                 <a class="test-popup-link" href="./img/portfolio/p3.jpg">
-                                    <img src="./img/portfolio/p3.jpg" alt="portfolio-3" class="img-fluid">
+                                    <img src="./img/portfolio/p3.jpg" alt="portfolio-8" class="img-fluid" width="100%">
                                 </a>
                             </div>
                             <div class="title py-4">
-                                <h4 class="text-uppercase">Female light</h4>
-                                <span class="text-secondary">Popular, Portfolio</span>
+                                <a href="https://www.thetroutfitter.com/" target="__blank">
+                                    <h4 class="text-uppercase">thetroutfitter</h4>
+                                </a>
+                                <span class="text-secondary">Stack: Php Laravel</span>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 element-item upcoming">
                         <div class="our-project">
                             <div class="img">
-                                <a class="test-popup-link" href="./img/portfolio/p4.jpg">
-                                    <img src="./img/portfolio/p4.jpg" alt="portfolio-4" class="img-fluid">
+                                <a class="test-popup-link" href="./img/portfolio/rev.png">
+                                    <img src="./img/portfolio/rev.png" alt="portfolio-4" class="img-fluid" width="100%">
                                 </a>
                             </div>
                             <div class="title py-4">
-                                <h4 class="text-uppercase">Fourth Air</h4>
-                                <span class="text-secondary">Upcoming, Portfolio</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 element-item upcoming">
-                        <div class="our-project">
-                            <div class="img">
-                                <a class="test-popup-link" href="./img/portfolio/p5.jpg">
-                                    <img src="./img/portfolio/p5.jpg" alt="portfolio-5" class="img-fluid">
+                                <a href="http://html.freethefirst.com/mobileapp/mobileapp.html" target="__blank">
+                                    <h4 class="text-uppercase">RevApp</h4>
                                 </a>
-                            </div>
-                            <div class="title py-4">
-                                <h4 class="text-uppercase">Muliple fown</h4>
-                                <span class="text-secondary">Upcoming, Portfolio</span>
+                                <span class="text-secondary">Stack: Vue.js/Quasar framework</span>
                             </div>
                         </div>
                     </div>
+                    
                     <div class="col-lg-4 col-md-6 col-sm-12 element-item following">
                         <div class="our-project">
                             <div class="img">
-                                <a class="test-popup-link" href="./img/portfolio/p6.jpg">
-                                    <img src="./img/portfolio/p6.jpg" alt="portfolio-6" class="img-fluid">
+                                <a class="test-popup-link" href="./img/portfolio/p1.jpg">
+                                    <img src="./img/portfolio/p1.jpg" alt="portfolio-5" class="img-fluid" width="100%">
                                 </a>
                             </div>
                             <div class="title py-4">
-                                <h4 class="text-uppercase">Together sign</h4>
-                                <span class="text-secondary">Following, Portfolio</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 element-item following">
-                        <div class="our-project">
-                            <div class="img">
-                                <a class="test-popup-link" href="./img/portfolio/p7.jpg">
-                                    <img src="./img/portfolio/p7.jpg" alt="portfolio-7" class="img-fluid">
+                                <a href="https://cdsconnectapp.com/" target="__blank">
+                                    <h4 class="text-uppercase">CDS</h4>
                                 </a>
-                            </div>
-                            <div class="title py-4">
-                                <h4 class="text-uppercase">Green Heaven</h4>
-                                <span class="text-secondary">Following, Portfolio</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 element-item following">
-                        <div class="our-project">
-                            <div class="img">
-                                <a class="test-popup-link" href="./img/portfolio/p8.jpg">
-                                    <img src="./img/portfolio/p8.jpg" alt="portfolio-8" class="img-fluid">
-                                </a>
-                            </div>
-                            <div class="title py-4">
-                                <h4 class="text-uppercase">Fly Male</h4>
-                                <span class="text-secondary">Following, Portfolio</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 element-item upcoming">
-                        <div class="our-project">
-                            <div class="img">
-                                <a class="test-popup-link" href="./img/portfolio/p9.jpg">
-                                    <img src="./img/portfolio/p9.jpg" alt="portfolio-9" class="img-fluid">
-                                </a>
-                            </div>
-                            <div class="title py-4">
-                                <h4 class="text-uppercase">Camera Lens</h4>
-                                <span class="text-secondary">Upcoming, Portfolio</span>
+                                <span class="text-secondary">Stack: php Laravel, html, CSS, bootstrap, jQuery and MySql</span>
                             </div>
                         </div>
                     </div>
@@ -446,6 +344,40 @@
         </section>
 
         <!--  ======================= End Project Area =============================  -->
+
+
+        <section class="counts section-bg pt-5">
+            <div class="container py-5">
+              <div class="row">
+                <div class="col-lg-4 col-md-6 text-center" data-aos="fade-up">
+                  <div class="count-box">
+                    <i class="icofont-simple-smile" style="color: #20b38e;"></i>
+                    <span data-toggle="counter-up" class="">14</span>
+                    <p>Happy Clients</p>
+                  </div>
+                </div>
+      
+                <div class="col-lg-4 col-md-6 text-center" data-aos="fade-up" data-aos-delay="200">
+                  <div class="count-box">
+                    <i class="icofont-document-folder" style="color: #c042ff;"></i>
+                    <span data-toggle="counter-up" class="">25</span>
+                    <p>Projects</p>
+                  </div>
+                </div>
+      
+                <div class="col-lg-4 col-md-6 text-center" data-aos="fade-up" data-aos-delay="400">
+                  <div class="count-box">
+                    <i class="icofont-clock-time" style="color: #46d1ff;"></i>
+                    <span class="d-flex justify-content-center">
+                        <span data-toggle="counter-up" class="">1,500</span><span>+</span>
+                    </span>
+                    <p>Hours Of Work</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
 
         <!--  ======================== About Me Area ==============================  -->
 
@@ -464,68 +396,12 @@
                 </div>
             </div>
 
-            <div class="container carousel py-lg-5">
+            <div class="container carousel py-lg-5" data-aos="fade-up">
                 <div class="owl-carousel owl-theme">
-                    <div class="client row">
-                        <div class="col-lg-4 col-md-12 client-img">
-                            <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
-                        </div>
-                        <div class="col-lg-8 col-md-12 about-client">
-                            <h4 class="text-uppercase">John Martin</h4>
-                            <p class="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem architecto
-                                consequuntur ratione, obcaecati corrupti deserunt.</p>
-                        </div>
-                    </div>
-                    <div class="client row">
-                        <div class="col-lg-4 col-md-12 client-img">
-                            <img src="./img/testimonials/t2.jpg" alt="img2" class="img-fluid">
-                        </div>
-                        <div class="col-lg-8 col-md-12 about-client">
-                            <h4 class="text-uppercase">Mac Hill</h4>
-                            <p class="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem architecto
-                                consequuntur ratione, obcaecati corrupti deserunt.</p>
-                        </div>
-                    </div>
-                    <div class="client row">
-                        <div class="col-lg-4 col-md-12 client-img">
-                            <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
-                        </div>
-                        <div class="col-lg-8 col-md-12 about-client">
-                            <h4 class="text-uppercase">John Martin</h4>
-                            <p class="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem architecto
-                                consequuntur ratione, obcaecati corrupti deserunt.</p>
-                        </div>
-                    </div>
-                    <div class="client row">
-                        <div class="col-lg-4 col-md-12 client-img">
-                            <img src="./img/testimonials/t2.jpg" alt="img2" class="img-fluid">
-                        </div>
-                        <div class="col-lg-8 col-md-12 about-client">
-                            <h4 class="text-uppercase">Mac Hill</h4>
-                            <p class="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem architecto
-                                consequuntur ratione, obcaecati corrupti deserunt.</p>
-                        </div>
-                    </div>
-                    <div class="client row">
-                        <div class="col-lg-4 col-md-12 client-img">
-                            <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
-                        </div>
-                        <div class="col-lg-8 col-md-12 about-client">
-                            <h4 class="text-uppercase">John Martin</h4>
-                            <p class="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem architecto
-                                consequuntur ratione, obcaecati corrupti deserunt.</p>
-                        </div>
-                    </div>
-                    <div class="client row">
-                        <div class="col-lg-4 col-md-12 client-img">
-                            <img src="./img/testimonials/t2.jpg" alt="img2" class="img-fluid">
-                        </div>
-                        <div class="col-lg-8 col-md-12 about-client">
-                            <h4 class="text-uppercase">Mac Hill</h4>
-                            <p class="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem architecto
-                                consequuntur ratione, obcaecati corrupti deserunt.</p>
-                        </div>
-                    </div>
+                    <img src="./img/testimonials/1.jpeg" alt="img1" class="img-fluid" width="100%">
+                    <img src="./img/testimonials/2.jpeg" alt="img1" class="img-fluid" width="100%">
+                    <img src="./img/testimonials/3.jpeg" alt="img1" class="img-fluid" width="100%">
+                    <img src="./img/testimonials/4.jpeg" alt="img1" class="img-fluid" width="100%">
                 </div>
             </div>
 
@@ -533,40 +409,76 @@
 
         <!--  ======================== End About Me Area ==============================  -->
 
-        <!--  ========================== Subscribe me Area ============================  -->
-        <section class="subscribe-us-area">
-            <div class="container subscribe">
-                <div class="row">
-                    <div class="col-lg-12 text-center subscribe-title">
-                        <h4 class="text-uppercase">Get Update From anywhere</h4>
-                        <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam,
-                            consequuntur.</p>
-                    </div>
-                </div>
-                <div class="d-sm-flex justify-content-center">
-                    <form class="w-50">
-                        <div class="row d-flex flex-row flex-wrap">
-                            <div class="col input-textbox">
-                                <input type="text" id="txtemail" class="form-control" placeholder="Email">
+        <!--  ======================== Brand Area ==============================  -->
+
+        <section class="brand-area" id="contact">
+            <div class="container-fluid" data-aos="fade-up">
+                <div class="row align-items-center">
+                    <div class="col-xl-6 col-lg-12 col-md-12">
+                        <div class="first-row row">
+                            <div class="col-lg-4 col-md-6 col-sm-6">
+                                <div class="single-brand">
+                                    <h6 class="mb-0">Revolution</h6>
+                                </div>
                             </div>
-                            <div class="col">
-                                <div class="btn-submit">
-                                    <button type="submit" class="btn btn-success float-right">Subscribe</button>
+                            <div class="col-lg-4 col-md-6 col-sm-6">
+                                <div class="single-brand">
+                                    <h6 class="mb-0">Chromovision</h6>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6">
+                                <div class="single-brand">
+                                    <h6 class="mb-0">Education-system</h6>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6">
+                                <div class="single-brand">
+                                    <h6 class="mb-0">NCH</h6>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6">
+                                <div class="single-brand">
+                                    <img src="./img/brands/logo5.png" alt="Brand-5 ">
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6">
+                                <div class="single-brand">
+                                    <img src="./img/brands/logo6.png" alt="Brand-6">
                                 </div>
                             </div>
                         </div>
-                    </form>
+                    </div>
+                    <div class="col-xl-6 col-lg-12 col-md-12">
+                        <div class="experience-area">
+                            <div class="d-flex flex-row years-area">
+                                <h2 class="p-3 years">4</h2>
+                                <h2>
+                                    <span>Years</span>
+                                    <span>Experience</span>
+                                    <span>Working</span>
+                                </h2>
+                            </div>
+                            <div class="d-flex flex-row flex-wrap call-area">
+                                <span><i class="fas fa-phone-alt fa-3x px-3"></i></span>
+                                <div class="call-now">
+                                    <a href="#" class="text-uppercase h4 font-roboto">Call Now</a>
+                                    <span class="font-roboto py-2">(+92) 332-8068709</span>
+                                </div>
+                            </div>
+                            <div class="bg-panel"></div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
-        <!--  ========================== End Subscribe me Area ============================  -->
 
+        <!--  ======================== End Brand Area ==============================  -->
 
     </main>
     <!--  ======================= End Main Area ================================ -->
 
     <footer class="footer-area">
-        <div class="container">
+        <div class="container" data-aos="fade-up">
             <div class="">
                 <div class="site-logo text-center py-4">
                     <a href="#"><img src="./img/logo.png" alt="logo"></a>
@@ -588,6 +500,7 @@
         </div>
     </footer>
 
+    <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
     <!--  Jquery js file  -->
     <script src="./js/jquery.3.4.1.js"></script>
@@ -606,6 +519,17 @@
 
     <!--  custom js file  -->
     <script src="./js/main.js"></script>
+    <!-- <script src="./vendor/jquery/jquery.min.js"></script> -->
+  <script src="./vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="./vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="./vendor/php-email-form/validate.js"></script>
+  <script src="./vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="./vendor/venobox/venobox.min.js"></script>
+  <script src="./vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="./vendor/counterup/counterup.min.js"></script>
+  <script src="./vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="./vendor/aos/aos.js"></script>
+  <script src="./js/main.js"></script>
 
 
 </body>

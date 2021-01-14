@@ -9,7 +9,9 @@
 /* import global styling */ 
 @import url(./partials/_global.css);
 
-
+body{
+    overflow-x: hidden;
+}
 /* start navigation */ 
 
 .header_area .main-menu .navbar .navbar-brand{
@@ -116,16 +118,15 @@
 .site-main .brand-area .first-row .col-lg-4 > .single-brand{
     border: 1px solid var(--border-color);
     text-align: center;
-    padding: 1.8rem 0rem;
+    padding: 0rem 0.5rem;
     margin: .9rem 0;
     width: 180px;
     height: 100px;
     cursor: pointer;
-    transition: transform .4s ease;
-}
-
-.site-main .brand-area .first-row .col-lg-4 > .single-brand > img{
-    width: 50%;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .site-main .brand-area .first-row .col-lg-4 > .single-brand:hover{
@@ -133,8 +134,12 @@
     transform: scale(1.1);
 }
 
-.site-main .brand-area .first-row .col-lg-4 > .single-brand:hover > img{
-    filter: brightness(0.15);
+.site-main .brand-area .first-row .col-lg-4 > .single-brand h6{
+    opacity: 0.6;
+}
+
+.site-main .brand-area .first-row .col-lg-4 > .single-brand:hover > h6{
+    opacity: 1;
 }
 
 .site-main .brand-area .experience-area{
@@ -197,16 +202,13 @@
 .site-main > .services-area .services{
     background: rgba(248, 252, 253, 0.973);
     padding: 2rem 0;
-    width: 16rem;
-    margin: 5rem .5rem;
+    margin: 5rem 0rem;
     transition: box-shadow .7s ease;
 }
 
 .site-main > .services-area .services:hover{
     box-shadow: var(--box-shadow);
 }
-
-
 
 /* End Services Area */ 
 
@@ -230,6 +232,11 @@
 
 .site-main .project-area .grid .our-project > .title h4{
     font: normal 700 25px/12px var(--roboto);
+}
+
+.site-main .project-area .grid .our-project > .title a{
+    text-decoration: none;
+    color: #000;
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
@@ -336,7 +343,7 @@ footer.footer-area .social h5{
 
 footer.footer-area .social a > i{
     font-size:22px;
-    padding: 2rem;
+    padding: 1rem 0.4rem;
     color: var(--border-color);
 }
 
@@ -346,3 +353,64 @@ footer.footer-area .social a:hover > i{
 
 
 /* End Footer */ 
+.counts {
+    padding-bottom: 30px;
+  }
+  
+  .counts .count-box {
+    box-shadow: 0px 0 16px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    background: #fff;
+    margin-bottom: 30px;
+  }
+  
+  .counts .count-box i {
+    display: block;
+    font-size: 64px;
+    margin-bottom: 15px;
+  }
+  
+  .counts .count-box span {
+    font-size: 42px;
+    display: block;
+    font-weight: 700;
+    color: #1c5c93;
+  }
+  
+  .counts .count-box p {
+    padding: 0;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+  }
+  .counts .count-box span{
+    color: var(--primary-color2);
+  }
+
+
+  .back-to-top {
+    position: fixed;
+    display: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 3px;
+    right: 15px;
+    bottom: 15px;
+    background: var(--primary-color2);
+    color: #fff;
+    transition: display 0.5s ease-in-out;
+    z-index: 99999;
+  }
+  
+  .back-to-top i {
+    font-size: 24px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+  }
+  
+  .back-to-top:hover {
+    color: #fff;
+    transition: background 0.2s ease-in-out;
+  }
+  

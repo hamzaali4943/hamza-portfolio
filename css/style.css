@@ -15,11 +15,15 @@ body{
 /* start navigation */ 
 
 .header_area .main-menu .navbar .navbar-brand{
-    padding: 0 2rem 0 5rem;
+    padding: 0 2rem 0 1.2rem;
 }
 
 .header_area .main-menu .navbar{
     padding: 1rem 20rem ;
+}
+
+.header_area .main-menu .navbar .navbar-brand .title-text{
+    font: normal bold 45px/ 60px var(--roboto) !important;
 }
 
 .header_area .main-menu .nav-item .nav-link{
@@ -413,4 +417,7 @@ footer.footer-area .social a:hover > i{
     color: #fff;
     transition: background 0.2s ease-in-out;
   }
-  
+.site-logo h2{
+    color: rgba(0,0,0,.9) !important;
+    font: normal bold 36px/ 68px var(--roboto) !important;
+}

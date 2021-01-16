@@ -138,11 +138,15 @@ body{
     transform: scale(1.1);
 }
 
-.site-main .brand-area .first-row .col-lg-4 > .single-brand h6{
+.site-main .brand-area .first-row .col-lg-4 > .single-brand a{
+    color: #000;
+}
+
+.site-main .brand-area .first-row .col-lg-4 > .single-brand a{
     opacity: 0.6;
 }
 
-.site-main .brand-area .first-row .col-lg-4 > .single-brand:hover > h6{
+.site-main .brand-area .first-row .col-lg-4 > .single-brand:hover > a{
     opacity: 1;
 }
 
@@ -206,7 +210,7 @@ body{
 .site-main > .services-area .services{
     background: rgba(248, 252, 253, 0.973);
     padding: 2rem 0;
-    margin: 5rem 0rem;
+    margin: 1rem 0rem;
     transition: box-shadow .7s ease;
 }
 

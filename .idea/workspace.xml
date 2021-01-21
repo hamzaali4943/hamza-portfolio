@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="064058f7-ef83-4bc8-8e46-c50afe5cae30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <workItem from="1610747016953" duration="1554000" />
       <workItem from="1610756563955" duration="2459000" />
       <workItem from="1611059654035" duration="347000" />
-      <workItem from="1611236728710" duration="1712000" />
+      <workItem from="1611236728710" duration="2193000" />
     </task>
     <servers />
   </component>

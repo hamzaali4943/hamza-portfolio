@@ -118,11 +118,13 @@ feed_show_tags: true
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
-#  - "/assets/css/custom-styles.css"
+  - "/css/"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
-#  - "/assets/js/custom-script.js"
+  - "/js/bootstrap.min.js"
+  - "/js/jquery.3.4.1.js"
+  - "/js/main.js"
 
 # --- Web Analytics Section --- #
 
@@ -210,18 +212,19 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+include:
+  - vendor/
+  - README.md
 
-# Exclude these files from production site
+  # Exclude these files from production site
 exclude:
   - CHANGELOG.md
   - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
   - screenshot.png
   - docs/
-  - vendor/
 
 plugins:
   - jekyll-paginate

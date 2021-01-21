@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="064058f7-ef83-4bc8-8e46-c50afe5cae30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <workItem from="1610747016953" duration="1554000" />
       <workItem from="1610756563955" duration="2459000" />
       <workItem from="1611059654035" duration="347000" />
-      <workItem from="1611236728710" duration="296000" />
+      <workItem from="1611236728710" duration="1712000" />
     </task>
     <servers />
   </component>
@@ -109,6 +108,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="446" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611238186488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1611238186488" />
     <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1610747803115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

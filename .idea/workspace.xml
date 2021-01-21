@@ -20,251 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="064058f7-ef83-4bc8-8e46-c50afe5cae30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/all.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/all.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/partials/_global.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/partials/_global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/partials/_variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/partials/_variables.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Roboto/Roboto-ThinItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-brands-400.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-brands-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-brands-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-brands-400.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-brands-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-brands-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-regular-400.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-regular-400.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-regular-400.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-regular-400.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-regular-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-regular-400.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-solid-900.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-solid-900.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-solid-900.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-solid-900.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/fa-solid-900.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icons/fa-solid-900.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about-us.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/about-us.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner/banner-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/banner/banner-image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/banner/home-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/banner/home-banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/body-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/body-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo7.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo8.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/logo9.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/logo9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/brands/rev.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/brands/rev.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/client-info-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/client-info-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/footer-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/footer-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/myprotfolio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/myprotfolio.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/cdc.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/cdc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/cobone4me.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/cobone4me.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/food.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/food.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/medi.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/medi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/meditibb.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/meditibb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/nch.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/nch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/p9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/p9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/portfolio-details.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-details.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/restaurant.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/restaurant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/rev.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/rev.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/s1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/services/s1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/s2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/services/s2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/s3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/services/s3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/services/s4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/services/s4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/subscribe-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/subscribe-bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonials/1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/testimonials/1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonials/2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/testimonials/2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonials/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/testimonials/3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonials/4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/testimonials/4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonials/t1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/testimonials/t1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/testimonials/t2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/testimonials/t2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.3.4.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/Gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/dist/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/dist/jquery.magnific-popup.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/dist/jquery.magnific-popup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/dist/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/dist/magnific-popup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/libs/jquery-loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/libs/jquery-loader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/libs/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/libs/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/libs/qunit/qunit.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/libs/qunit/qunit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/libs/qunit/qunit.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/libs/qunit/qunit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/magnific-popup.jquery.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/magnific-popup.jquery.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/css/_settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/css/_settings.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/js/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/js/ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/js/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/js/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/js/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/js/gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/js/iframe.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/js/iframe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/js/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/js/image.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/js/inline.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/js/inline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/js/retina.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/js/retina.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/src/js/zoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/src/js/zoom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/_includes/analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/_includes/analytics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/_includes/build-tool.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/_includes/build-tool.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/_includes/examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/_includes/examples.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/_includes/logo.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/_includes/logo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/_includes/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/_includes/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/documentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/documentation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/site-assets/ajax/test-ajax-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/site-assets/ajax/test-ajax-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/site-assets/ajax/test-ajax.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/site-assets/ajax/test-ajax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/site-assets/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/site-assets/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/third-party-libs/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/third-party-libs/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/third-party-libs/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/third-party-libs/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/third-party-libs/uglify.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/third-party-libs/uglify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/third-party-libs/zepto.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/third-party-libs/zepto.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/third-party-libs/zepto.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/third-party-libs/zepto.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/Magnific-Popup/website/wordpress.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/Magnific-Popup/website/wordpress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/animate.css/._animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/animate.css/._animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/animate.css/._animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/animate.css/._animate.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/animate.css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/animate.css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/animate.css/animate.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/animate.css/animate.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/aos/._aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/aos/._aos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/aos/._aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/aos/._aos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/aos/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/aos/aos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/aos/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/aos/aos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/._css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/._css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/._js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/._js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/._bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/._bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/._bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/._bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/._bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/._bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/._bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/._bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/._bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/._bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/._bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/._bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/._bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/._bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/._bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/._bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/._bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/._bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/._css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/._css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/._fonts" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/._fonts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/css/._animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/._animations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/css/._boxicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/._boxicons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/css/._boxicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/._boxicons.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/css/._transformations.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/._transformations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/css/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/animations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/css/boxicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/boxicons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/css/boxicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/boxicons.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/css/transformations.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/css/transformations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/._boxicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/._boxicons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/._boxicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/._boxicons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/._boxicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/._boxicons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/._boxicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/._boxicons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/._boxicons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/._boxicons.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/boxicons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/boxicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/boxicons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/boxicons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/boxicons/fonts/boxicons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/boxicons/fonts/boxicons.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/counterup/._counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/counterup/._counterup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/counterup/counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/counterup/counterup.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont copy/._fonts" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont copy/._fonts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont copy/._icofont.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont copy/._icofont.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont copy/fonts/._icofont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont copy/fonts/._icofont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont copy/fonts/._icofont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont copy/fonts/._icofont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont copy/fonts/icofont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont copy/fonts/icofont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont copy/fonts/icofont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont copy/fonts/icofont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont copy/icofont.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont copy/icofont.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont/._fonts" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont/._fonts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont/._icofont.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont/._icofont.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont/fonts/._icofont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont/fonts/._icofont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont/fonts/._icofont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont/fonts/._icofont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont/fonts/icofont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont/fonts/icofont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont/fonts/icofont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont/fonts/icofont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/icofont/icofont.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/icofont/icofont.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/isotope-layout/._isotope.pkgd.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/isotope-layout/._isotope.pkgd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/isotope-layout/._isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/isotope-layout/._isotope.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/isotope-layout/isotope.pkgd.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/isotope-layout/isotope.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/isotope/isotope.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/isotope/isotope.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-sticky/._jquery.sticky.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/jquery-sticky/._jquery.sticky.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery-sticky/jquery.sticky.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/jquery-sticky/jquery.sticky.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery.easing/._jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/jquery.easing/._jquery.easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery.easing/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/jquery.easing/jquery.easing.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/._jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/jquery/._jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/._jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/jquery/._jquery.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/owl-carousel/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/owl-carousel/css/owl.carousel.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/owl-carousel/css/owl.theme.default.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/owl-carousel/css/owl.theme.default.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/owl-carousel/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/owl-carousel/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-email-form/._validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/._validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/php-email-form/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/php-email-form/validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/venobox/._venobox.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/venobox/._venobox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/venobox/._venobox.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/venobox/._venobox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/venobox/._venobox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/venobox/._venobox.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/venobox/venobox.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/venobox/venobox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/venobox/venobox.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/venobox/venobox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/venobox/venobox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/venobox/venobox.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/waypoints/._jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/waypoints/._jquery.waypoints.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/waypoints/jquery.waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/vendor/waypoints/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,19 +57,19 @@
       <recent name="C:\xampp\htdocs\hamza-portfolio\assets" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug._Index.html">
     <configuration name="Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hamza-portfolio/Index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://165.22.171.103/Index.php">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://165.22.171.103/index.html">
+    <configuration name="_Index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://165.22.171.103/_Index.html">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug._Index.html" />
         <item itemvalue="JavaScript Debug.Index.php" />
         <item itemvalue="JavaScript Debug.Index.html" />
       </list>
@@ -335,7 +92,7 @@
       <workItem from="1610747016953" duration="1554000" />
       <workItem from="1610756563955" duration="2459000" />
       <workItem from="1611059654035" duration="347000" />
-      <workItem from="1611236728710" duration="2700000" />
+      <workItem from="1611236728710" duration="2828000" />
     </task>
     <servers />
   </component>

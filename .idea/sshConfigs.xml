@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="165.22.171.103" id="8f2161b7-52f9-43f4-9d8a-f15148f96025" port="22" customName="Cobone4me" nameFormat="CUSTOM">
+        <option name="customName" value="Cobone4me" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
